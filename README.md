@@ -31,3 +31,7 @@
 </div>
 
 [![risita's github activity graph](https://activity-graph.herokuapp.com/graph?username=risitadas&theme=react-dark)](https://github.com/risitadas/github-readme-activity-graph)
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/risitadas/risitadas/blob/main/assets/swiftie-taylor-swift.gif">
+</div>
