@@ -1,12 +1,12 @@
 <!--<h1 align="center">Hiey 👋, I'm Risita das</h1> -->
 ## 👋 Hey everyone, I'm Risita Das 👋
-<h3 align="center">I am currently studying in 3rd year of my college in BTech Computer Science Engineering, with an overall CGPA of 9.68</h3>
+<h3 align="center">I am </h3>
+### About me :
 
-- 🌱 I’m currently learning *Python and JAVA*
-
-- 📫 How to reach me *2001risitadas@gmail.com*
-
-- ⚡ Fun fact *I am a fan of Taylor Swift .*
+- 🌱 currently studying in 3rd year of my college in BTech Computer Science Engineering, with an overall CGPA of 9.68
+- 💻 currently learning *Data Science and Machine Learning*
+- 📫 reach me *2001risitadas@gmail.com*
+- ⚡ i love listening to the songs of *Taylor Swift*
 
 <!--
 <h3 align="left">find me all around the web:</h3>
