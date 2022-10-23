@@ -49,17 +49,16 @@
 </div>
 
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=risitadas&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for risitadas" width="700">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=risitadas&theme=jolly" width="700">
-
-
-
 ### Watch my contribution graph get eaten by the snake 🐍
 
 ![risita_Snake animation](https://github.com/risitadas/risitadas/blob/output/github-contribution-grid-snake.svg)
+
+
+## GitHub Stats
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=risitadas&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for risitadas" width="700">   -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=risitadas&theme=jolly" width="500">
 
 
 [![risita's github activity graph](https://activity-graph.herokuapp.com/graph?username=risitadas&theme=halloween)](https://github.com/risitadas/github-readme-activity-graph)
