@@ -28,7 +28,7 @@
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/r.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/colab.png" height="30" /></a> 
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/git.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/github.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/779/779088.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/html.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/css.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/numpy.png" height="30" /></a>
