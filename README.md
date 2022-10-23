@@ -62,19 +62,5 @@
 ![risita_Snake animation](https://github.com/risitadas/risitadas/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
-<div align="center">
-  
-
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risitadas&theme=city-lights)](https://git.io/streak-stats)
-
-</div>
-
-[![risita's github activity graph](https://activity-graph.herokuapp.com/graph?username=risitadas&theme=react-dark)](https://github.com/risitadas/github-readme-activity-graph)
+[![risita's github activity graph](https://activity-graph.herokuapp.com/graph?username=risitadas&theme=halloween)](https://github.com/risitadas/github-readme-activity-graph)
 
