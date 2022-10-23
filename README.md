@@ -9,13 +9,7 @@
 - 📫 reach me *2001risitadas@gmail.com*
 - ⚡ i love listening to the songs of *Taylor Swift*
 
-<!--
-<h3 align="left">find me all around the web:</h3>
-<p align="left">
-<a href="https://twitter.com/@hazelnut_nuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hazelnut_nuts" height="30" width="40" /></a>
-<a href="https://instagram.com/xoxoz.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xoxoz.exe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2001risitadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2001risitadas" height="30" width="40" /></a>
-</p> -->
+
 
 ### Find me all around the web:
 
@@ -42,6 +36,18 @@
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/matplotlib.jpg" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/seaborn.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/scikit-learn.png" height="30" /></a>
+
+<!--
+
+### I'm listening to :
+
+
+### Some Fun Facts about me :
+
+
+
+-->
+
 
 
 <div align="center">
