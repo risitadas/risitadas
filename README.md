@@ -7,7 +7,7 @@
 - 🌱 currently studying in 3rd year of my college in BTech Computer Science Engineering, with an overall CGPA of 9.68
 - 💻 currently learning *Data Science and Machine Learning*
 - 📫 reach me *2001risitadas@gmail.com*
-- ⚡ i love listening to the songs of *Taylor Swift*
+- ⚡ i love listening to the songs of *Taylor Swift* 
 
 
 
