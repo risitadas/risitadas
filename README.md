@@ -50,7 +50,9 @@
 
 
 
+### Watch my contribution graph get eaten by the snake 🐍
 
+![risita_Snake animation](https://github.com/risitadas/risitadas/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -68,3 +70,4 @@
 </div>
 
 [![risita's github activity graph](https://activity-graph.herokuapp.com/graph?username=risitadas&theme=react-dark)](https://github.com/risitadas/github-readme-activity-graph)
+
