@@ -27,13 +27,13 @@
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/java.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/r.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/colab.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/git.png" height="30" /></a>
+<!-- <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/git.png" height="30" /></a> -->
 <a href=" " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/779/779088.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/html.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/css.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/numpy.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/pandas.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/matplotlib.jpg" height="30" /></a>
+<!--<a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/matplotlib.jpg" height="30" /></a> -->
 <!-- <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/seaborn.png" height="30" /></a> -->
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/scikit-learn.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/tech-stack/nodejs.png" height="45" /></a>
