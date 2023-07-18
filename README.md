@@ -4,8 +4,8 @@
 
 ## About me :
 
-- 🌱 currently studying in 3rd year of my college in BTech Computer Science Engineering, with an overall CGPA of 9.68
-- 💻 currently learning *Data Science and Machine Learning*
+- 🌱 currently a Computer Science senior at IEM Kolkata with a cumulative CGPA of 9.372
+- 💻 i like competitive coding and like to know more on *Data Science and Machine Learning*
 - 📫 reach me *risita17das@gmail.com*
 - ⚡ i love listening to the songs of *Taylor Swift* 
 
