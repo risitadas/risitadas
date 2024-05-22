@@ -4,7 +4,7 @@
 
 ## About me :
  
-- 🌱 currently a Computer Science senior at IEM Kolkata with a cumulative CGPA of 9.29
+- 🌱 Computer Science graduate from IEM Kolkata with a cumulative CGPA of 9.29
 - 💻 i like competitive coding and like to know more on *Data Science and Machine Learning*
 - 📫 reach me *risita17das@gmail.com*
 - ⚡ my mother is *Taylor Swift* 
