@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/risita-das/" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/linkdln.png" title = "LinkedIn" alt="" height="30" /></a>
 <a href="https://twitter.com/hazelnut_nuts" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
 <!--<a href="http://linkedin.com/in/" target="blank"><img align="center" src="https://github.com.png" alt="" height="30" /></a> -->
-<a href="https://www.instagram.com/xoxoz.exe/" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/instagram.png" title = "Instagram" alt="" height="30" /></a>
+<!--a href="https://www.instagram.com/xoxoz.exe/" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/instagram.png" title = "Instagram" alt="" height="30" /></a -->
  
   
 </p>
