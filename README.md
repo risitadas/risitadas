@@ -14,12 +14,11 @@
 ### Find me all around the web:
 
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/risita17das/practice" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/geeksforgeeks.png" title = "GeeksforGeeks" alt="" height="30" /></a>
 <a href="https://leetcode.com/risitadas/" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/leetcode.png" title = "LeetCode" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/risita-das/" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/linkdln.png" title = "LinkedIn" alt="" height="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/risita17das/practice" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/geeksforgeeks.png" title = "GeeksforGeeks" alt="" height="30" /></a>
 <a href="https://twitter.com/hazelnut_nuts" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
 <!--<a href="http://linkedin.com/in/" target="blank"><img align="center" src="https://github.com.png" alt="" height="30" /></a> -->
-<a href="https://www.instagram.com/xoxoz.exe/" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/instagram.png" title = "Instagram" alt="" height="30" /></a>
  
   
 </p>
