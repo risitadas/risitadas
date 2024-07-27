@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/risita-das/" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/linkdln.png" title = "LinkedIn" alt="" height="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/risita17das/practice" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/geeksforgeeks.png" title = "GeeksforGeeks" alt="" height="30" /></a>
 <a href="https://twitter.com/hazelnut_nuts" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://open.spotify.com/user/ijb3qaw95okse7i36w68tjdhj?si=73a262fc4322421a" target="blank"><img align="center" src="https://github.com/risitadas/risitadas/blob/main/socials/icon3%402x.png" title = "Spotify" alt="" height="30" /></a>
 <!--<a href="http://linkedin.com/in/" target="blank"><img align="center" src="https://github.com.png" alt="" height="30" /></a> -->
  
   
